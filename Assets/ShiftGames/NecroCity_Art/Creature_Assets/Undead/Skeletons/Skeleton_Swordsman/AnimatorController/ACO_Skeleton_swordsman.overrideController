@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ACO_Skeleton_swordsman
+  m_Controller: {fileID: 9100000, guid: 0c5e638016148b540b98bf7565a8fde9, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 1982931522703452235, guid: 33d4386cfb9ea0643970eaff2f8f3a83, type: 3}
+    m_OverrideClip: {fileID: 7400008, guid: fdb031097e06548bcbd93c253ac24868, type: 3}
+  - m_OriginalClip: {fileID: 6906944351531924771, guid: 33d4386cfb9ea0643970eaff2f8f3a83, type: 3}
+    m_OverrideClip: {fileID: 7400030, guid: fdb031097e06548bcbd93c253ac24868, type: 3}
+  - m_OriginalClip: {fileID: 2982437316270445761, guid: 33d4386cfb9ea0643970eaff2f8f3a83, type: 3}
+    m_OverrideClip: {fileID: 7400008, guid: fdb031097e06548bcbd93c253ac24868, type: 3}
+  - m_OriginalClip: {fileID: -8065762899358261510, guid: 33d4386cfb9ea0643970eaff2f8f3a83, type: 3}
+    m_OverrideClip: {fileID: 7400014, guid: fdb031097e06548bcbd93c253ac24868, type: 3}
+  - m_OriginalClip: {fileID: 8392861139900329840, guid: 33d4386cfb9ea0643970eaff2f8f3a83, type: 3}
+    m_OverrideClip: {fileID: 7400010, guid: fdb031097e06548bcbd93c253ac24868, type: 3}
+  - m_OriginalClip: {fileID: -5850923248995265545, guid: 33d4386cfb9ea0643970eaff2f8f3a83, type: 3}
+    m_OverrideClip: {fileID: 7400022, guid: fdb031097e06548bcbd93c253ac24868, type: 3}
+  - m_OriginalClip: {fileID: 2320432298108302279, guid: 33d4386cfb9ea0643970eaff2f8f3a83, type: 3}
+    m_OverrideClip: {fileID: 7400028, guid: fdb031097e06548bcbd93c253ac24868, type: 3}
+  - m_OriginalClip: {fileID: 4687704765665284213, guid: 33d4386cfb9ea0643970eaff2f8f3a83, type: 3}
+    m_OverrideClip: {fileID: 7400044, guid: fdb031097e06548bcbd93c253ac24868, type: 3}
